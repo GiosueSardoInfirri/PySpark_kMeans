@@ -1,4 +1,4 @@
-# kMeansMapReduce
+# k-Means implementation with PySpark 
 
 This is an implementation of the K-Means algorithm via a Map-Reduce schema: the code is developed in Python and uses the adaptation commands of the Spark language. The steps of the implementation are available in the ```kmeans_pyspark.ipynb``` file, while in ```kmeans_2D_data.ipynb``` one can find an application of the method for 2D generated data.
 
